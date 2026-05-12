@@ -1,5 +1,5 @@
 # abhishek-portfolio
-**Data &amp; AI Engineer | LLM Specialist | Risk Analytics Expert**
+**AI Engineer | LLM Specialist | Risk Analytics Expert**
 # 👋 Abhishek Kumar Dongrey
 
 **Data & AI Engineer | LLM Specialist | Risk Analytics Expert**
