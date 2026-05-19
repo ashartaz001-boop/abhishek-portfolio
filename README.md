@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-With **8+ years of combined experience** in Risk & Compliance Analytics, AI Engineering, and enterprise data operations across complex, data-intensive environments.
+With **8+ years of combined experience** in Risk Analytics, AI Engineering, and enterprise data operations across complex, data-intensive environments.
 
 I specialize in designing, deploying, and integrating **production-grade AI and machine learning solutions** — encompassing AI agent automation, RAG pipelines, LLM orchestration, and MLOps on GCP. I bring a strong foundation in predictive analytics, risk governance, and compliance monitoring, consistently delivering scalable AI systems that drive measurable impact across enterprise functions.
 
@@ -25,6 +25,7 @@ I specialize in designing, deploying, and integrating **production-grade AI and 
 - ⚡ Optimized API inference cost by **40%** using semantic caching across OpenAI & Vertex AI
 - 🎓 Post Graduate in **Data Analytics with GenAI** — IIT Guwahati (2025)
 
+Portfolio: https://abhishekkumardongrey-portfolio.netlify.app/
 ---
 
 ## 🛠️ Tech Stack
