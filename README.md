@@ -132,6 +132,9 @@ Teleperformance, Jaipur · Designed RAG pipelines, LLM evaluation frameworks, AI
 **Fraud Prevention Analytics Analyst** *(May 2018 – Apr 2024)*
 Teleperformance, Jaipur · Large-scale fraud detection, predictive ML models, automated KPI dashboards, and cross-functional analytics workflow automation.
 
+**Customer Care Executive** *(Jul 2017 – Apr 2018)*
+Teleperformance, Jaipur · Provided customer insights, Resolved recurring complaints, Generated operational report to improve customer satisfaction.
+
 ---
 
 ## 🎓 Certifications
