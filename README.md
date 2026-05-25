@@ -141,14 +141,6 @@ Assistant Manager — Risk Analytics & AI Engineer · Jaipur, Rajasthan
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00e5a0&icon_color=00e5a0&text_color=e2e8f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00e5a0&text_color=e2e8f0)
-
 </div>
 
 ---
