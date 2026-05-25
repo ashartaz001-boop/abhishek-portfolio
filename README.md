@@ -5,168 +5,158 @@
 
 *LLM Deployment · RAG Pipelines · AI Agent Automation · MLOps · GCP · Risk Analytics*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekkumar-dongrey)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekshartaz@gmail.com)
-[![Location](https://img.shields.io/badge/Jaipur,%20India-4285F4?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-abhishekshartaz@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekshartaz@gmail.com)
+[![Location](https://img.shields.io/badge/Jaipur%2C%20Rajasthan-India-00e5a0?style=flat-square)](https://maps.google.com/?q=Jaipur,Rajasthan)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-With **8+ years of combined experience** in Risk Analytics, AI Engineering, and enterprise data operations across complex, data-intensive environments.
+Data & AI professional with **8+ years** of experience building production AI systems and enterprise risk analytics pipelines. I design and ship:
 
-I specialize in designing, deploying, and integrating **production-grade AI and machine learning solutions** — encompassing AI agent automation, RAG pipelines, LLM orchestration, and MLOps on GCP. I bring a strong foundation in predictive analytics, risk governance, and compliance monitoring, consistently delivering scalable AI systems that drive measurable impact across enterprise functions.
+- **LLM-powered workflows** — RAG pipelines, agent systems, evaluation frameworks (RAGAS)
+- **Risk & fraud analytics** — anomaly detection, predictive modeling, compliance dashboards
+- **Cloud AI infrastructure** — GCP, Vertex AI, semantic caching, scalable REST APIs
 
-- 🔭 Currently building **intelligent agent workflows** that automate complex operational and compliance processes
-- 🧠 Deep expertise in **RAG pipelines**, **LangChain**, **Gemini 2.5**, and **GPT-4o**
-- 📉 Reduced AI hallucinations by **35%** via enterprise-grade RAG deployment
-- ⚡ Optimized API inference cost by **40%** using semantic caching across OpenAI & Vertex AI
-- 🎓 Post Graduate in **Data Analytics with GenAI** — IIT Guwahati (2025)
+I care about AI systems that are grounded, reliable, and actually useful in production — not just impressive in demos.
 
-Portfolio: https://abhishekkumardongrey-portfolio.netlify.app/
+> *Reduced AI hallucinations by **35%** · Cut API inference costs by **40%** · Shipped fraud detection at enterprise scale*
+
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### AI / LLM Engineering
+**AI / ML**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6929C4?style=flat-square)
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS_Evaluation-0F9D58?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### MLOps & Deployment
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+**MLOps & Cloud**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-0F9D58?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Data Engineering & Analytics
+**Data & Databases**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-00897B?style=flat-square&logoColor=white)
-
-### BI & Visualization
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0668E1?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔗 Enterprise RAG Pipeline
-> Production-grade Retrieval-Augmented Generation system using LangChain + Gemini 2.5 Flash + ChromaDB
+### 🤖 Advanced NLP Conversational AI Chatbot
+> `LangChain` `Llama 3.2` `FAISS` `FastAPI` `Docker` `WebSockets`
 
-- Automated **PDF-to-JSON ingestion** with vector indexing into ChromaDB
-- Implemented **RAGAS evaluation framework** for faithfulness & relevancy monitoring
-- Reduced hallucinations by **35%** in enterprise deployment
-- `LangChain` `ChromaDB` `Gemini 2.5` `RAGAS` `GCP` `Python`
+Production-ready RAG chatbot with real-time streaming, enterprise safety layers, and GDPR-compliant audit logging.
 
----
+- Sub-500ms response latency under load via FAISS vector search
+- PII redaction, content moderation, and jailbreak detection built in
+- Deployed with Docker + Kubernetes for horizontal scalability
 
-### 🤖 AI Agent Workflow Engine
-> Intelligent agent automation system for complex operational & compliance workflows
-
-- Orchestrates multi-step decision processes using **LangChain Agents + GPT-4o**
-- Reduced manual intervention across compliance and operational functions
-- Designed for enterprise-scale reliability and auditability
-- `LangChain Agents` `GPT-4o` `OpenAI API` `Python` `Automation`
+**[View Repository →](https://github.com/YOUR_USERNAME/chatbot-repo)**
 
 ---
 
-### ⚡ LLM Inference Optimization (Semantic Caching)
-> Semantic caching layer across OpenAI and Vertex AI to cut API overhead
+### 🎭 Deepfake Detection System
+> `PyTorch` `EfficientNet-B0` `OpenCV` `MTCNN`
 
-- Reduced API inference cost by **40%** using semantic similarity caching
-- Pluggable design compatible with OpenAI API and GCP Vertex AI endpoints
-- `Vertex AI` `OpenAI API` `Semantic Search` `GCP` `Python`
+Deep learning model trained on 20,000+ video frames to detect AI-manipulated media.
 
----
+- **94.2% accuracy** · **97.1% ROC-AUC**
+- Automated pipeline: frame extraction → face detection → preprocessing → inference
+- Solved GPU memory overload via gradient accumulation; fallback detectors for edge angles
 
-### 🛡️ Fraud Detection ML Pipeline
-> Large-scale transactional fraud detection using predictive analytics & anomaly detection
-
-- Analyzed large-scale transactional datasets with SQL & Python for risk detection
-- Applied ML techniques for fraud detection optimization with reduced false positives
-- Automated **Power BI dashboards** for operational KPI visibility
-- `Scikit-learn` `Python` `SQL` `Power BI` `Anomaly Detection`
+**[View Repository →](https://github.com/YOUR_USERNAME/deepfake-detector)**
 
 ---
 
-### 📄 PDF ETL Vector Indexer
-> Automated document ingestion pipeline for enterprise compliance management
+### 📉 Customer Churn Prediction (Telecom)
+> `Scikit-Learn` `Random Forest` `GridSearchCV` `Pandas`
 
-- **PDF → JSON metadata extraction → vector embedding → ChromaDB indexing**
-- Designed for high-volume compliance document processing
-- `ChromaDB` `ETL` `Embeddings` `JSON` `Python`
+End-to-end ML pipeline predicting customer churn on 5,000+ records with zero data leakage.
+
+- **86.4% accuracy** · **91.2% ROC-AUC** on held-out test set
+- Full Scikit-Learn pipeline: cleaning → encoding → scaling → training in one workflow
+- 5-fold cross-validation + GridSearch; F1 & ROC-AUC chosen to handle class imbalance
+
+**[View Repository →](https://github.com/YOUR_USERNAME/churn-prediction)**
 
 ---
 
-## 📈 Key Achievements
+## Work Experience
 
-| Achievement | Impact |
+```
+Teleperformance India                            Jul 2017 – Nov 2025
+Assistant Manager — Risk Analytics & AI Engineer · Jaipur, Rajasthan
+────────────────────────────────────────────────────────────────────
+▸ Deployed RAG pipelines + RAGAS evaluation + PDF→JSON ingestion
+  using LangChain, Gemini 2.5, ChromaDB → 35% fewer hallucinations
+▸ Built GCP/Vertex AI infrastructure with semantic caching
+  → 40% reduction in API inference costs
+▸ Led fraud detection across large-scale transactional datasets
+  using SQL + Python anomaly detection
+▸ Built automated Power BI compliance dashboards & KPI systems
+▸ Conducted Security Risk Assessments & audit reviews
+```
+
+---
+
+## Education & Certifications
+
+**🎓 IIT Guwahati** — Post Graduation in Data Analytics with GenAI *(Feb 2025 – Aug 2025)*
+
+**🎓 Jaipur National University** — Bachelor of Arts, 71% *(2019 – 2022)*
+
+<details>
+<summary><b>📜 View all certifications (10)</b></summary>
+
+| Certificate | Issuer |
 |---|---|
-| 🧠 Enterprise RAG Deployment | Reduced AI hallucinations by **35%** |
-| ⚡ Semantic Caching Implementation | Cut inference cost by **40%** |
-| 🔁 Automated Data Pipelines | End-to-end PDF ingestion & vector indexing |
-| 🤖 AI Agent Automation | Streamlined multi-step compliance workflows |
-| 📊 Risk Analytics Dashboards | Power BI KPI systems for enterprise ops |
-
----
-
-## 💼 Experience
-
-**Assistant Manager – Risk Analytics & AI Engineering** *(May 2024 – Dec 2025)*
-Teleperformance, Jaipur · Designed RAG pipelines, LLM evaluation frameworks, AI agent automation, and GCP-integrated AI systems for enterprise risk and compliance operations.
-
-**Fraud Prevention Analytics Analyst** *(May 2018 – Apr 2024)*
-Teleperformance, Jaipur · Large-scale fraud detection, predictive ML models, automated KPI dashboards, and cross-functional analytics workflow automation.
-
-**Customer Care Executive** *(Jul 2017 – Apr 2018)*
-Teleperformance, Jaipur · Provided customer insights, Resolved recurring complaints, Generated operational report to improve customer satisfaction.
-
----
-
-## 🎓 Certifications
-
-| Certification | Issuer |
-|---|---|
-| Post Graduation – Data Analytics with GenAI | IIT Guwahati (2025) |
-| Advanced AI – Agents, RAG, MCP | Coding Ninja |
 | Intro to Large Language Models | Google |
 | Prompt Design in Vertex AI | Google |
 | Generative AI Foundations | upGrad |
 | Prompt Engineering | Coding Ninja |
+| Advanced AI (Agents, RAG, MCP) | Coding Ninja |
 | Programming in Python | IIT Guwahati |
 | Generative AI for Data Analytics | IIT Guwahati |
 | SQL for Data Analysis | IIT Guwahati |
+| Data Analytics | IIT Guwahati |
 | Data Visualization in Power BI | IIT Guwahati |
+
+</details>
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekkumar-dongrey)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashartaz001-boop)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekshartaz@gmail.com)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00e5a0&icon_color=00e5a0&text_color=e2e8f0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00e5a0&text_color=e2e8f0)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>📍 Jaipur, Rajasthan, India &nbsp;·&nbsp; Open to AI Engineering roles globally</sub>
+
+**Open to AI Engineering & MLOps roles · Freelance consulting welcome**
+
+[![Email](https://img.shields.io/badge/Say_Hello-abhishekshartaz@gmail.com-00e5a0?style=for-the-badge)](mailto:abhishekshartaz@gmail.com)
+
 </div>
