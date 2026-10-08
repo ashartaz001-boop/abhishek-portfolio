@@ -106,6 +106,6 @@ Fraud Prevention Analytics · Risk Analytics · Regulatory Compliance · Operati
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekshartaz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekshartaz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://github.com/ashartaz001-boop/abhishek-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://abhishekdongrey-portfolio.netlify.app/)
 
 ⭐ If you find my work useful, feel free to star a repo or reach out.
