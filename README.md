@@ -1,154 +1,111 @@
-<div align="center">
+# Hi, I'm Abhishek Kumar Dongrey 👋
 
-# Abhishek Kumar Dongrey
-### AI Implementation Engineer
+**Data Analytics & Risk Management Professional** | Fraud Prevention Analytics | Compliance | GenAI
 
-*LLM Deployment · RAG Pipelines · AI Agent Automation · MLOps · GCP · Risk Analytics*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-abhishekshartaz@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekshartaz@gmail.com)
-[![Location](https://img.shields.io/badge/Jaipur%2C%20Rajasthan-India-00e5a0?style=flat-square)](https://maps.google.com/?q=Jaipur,Rajasthan)
-
-</div>
+📍 Jaipur, Rajasthan, India
+📧 [abhishekshartaz@gmail.com](mailto:abhishekshartaz@gmail.com)
 
 ---
 
 ## About Me
 
-Data & AI professional with **8+ years** of experience building production AI systems and enterprise risk analytics pipelines. I design and ship:
+I have 8+ years of experience in fraud prevention, risk analytics, and compliance, building data-driven strategies on high-volume transactional data. I clean raw data with SQL and Python, detect anomalies, and tune fraud rules. I recently completed a Post Graduate Program in Data Analytics with Generative AI at IIT Guwahati, and I now combine classic risk analytics with modern GenAI tooling (RAG, LLMs, GCP).
 
-- **LLM-powered workflows** — RAG pipelines, agent systems, evaluation frameworks (RAGAS)
-- **Risk & fraud analytics** — anomaly detection, predictive modeling, compliance dashboards
-- **Cloud AI infrastructure** — GCP, Vertex AI, semantic caching, scalable REST APIs
+I enjoy bridging the gap between technical data work and business risk, turning complex datasets into clear, actionable decisions.
 
-I care about AI systems that are grounded, reliable, and actually useful in production — not just impressive in demos.
+**Open to:** Data Analyst · Fraud Prevention Analyst · Risk Analytics · Compliance roles
 
-> *Reduced AI hallucinations by **35%** · Cut API inference costs by **40%** · Shipped fraud detection at enterprise scale*
+---
+
+## Impact Highlights
+
+| Area | Result |
+|---|---|
+| Fraud detection | Reduced **false positives by 35%** and **systemic risk vulnerabilities by 30%** using SQL and Python anomaly detection models |
+| Reporting automation | Cut reporting turnaround by **55%** and improved data accuracy by **30%** with automated Excel and Power BI dashboards |
+| Risk visibility | Increased identification of operational and compliance risks by **15%** |
+| Leadership | Led a team of **15–18 analysts** across fraud analytics, risk monitoring, and compliance reporting |
 
 ---
 
 ## Tech Stack
 
-**AI / ML**
+**Data Querying & Management**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+ETL · Data Modeling (Star Schema) · Data Cleaning & Wrangling
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6929C4?style=flat-square)
-![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+**Analysis & Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Advanced Excel · Google Sheets · matplotlib · seaborn
 
-**MLOps & Cloud**
+**Visualization & Reporting**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+Looker Studio · Dashboards · KPI Tracking · Data Storytelling
 
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-0F9D58?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+**Statistics**
+Descriptive Statistics · Probability · Regression · Hypothesis Testing · A/B Testing
 
-**Data & Databases**
+**GenAI & Cloud**
+RAG pipelines · LangChain · Gemini 2.5 · ChromaDB · GCP · Vertex AI · Prompt Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0668E1?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+**Domain Expertise**
+Fraud Prevention Analytics · Risk Analytics · Regulatory Compliance · Operational Risk Assessment · Root Cause Analysis
+
+---
+
+## Experience
+
+### Assistant Manager – Fraud Prevention Analytics
+**Teleperformance India** · Jaipur · Jul 2017 – Nov 2025
+
+- Led a team of 15–18 professionals delivering fraud prevention analytics, risk monitoring, and compliance reporting.
+- Engineered predictive models and anomaly detection algorithms in SQL and Python on high-volume transactional datasets.
+- Built automated Excel and Power BI dashboards for compliance, operational performance, and risk analytics.
+- Ran Security Risk Assessments, root cause investigations, and compliance audits to close control gaps.
+- Partnered with IT, operations, and data engineering to automate workflows.
+- Led AI initiatives building RAG pipelines (LangChain, Gemini 2.5, ChromaDB) and GCP integrations for risk and analytics workflows.
+
+---
+
+## Education
+
+- **Post Graduate Program in Data Analytics with Generative AI**, IIT Guwahati (Feb 2025 – Aug 2025), 95%
+- **Bachelor of Arts**, Jaipur National University (2019 – 2022), 71%
 
 ---
 
 ## Featured Projects
 
-### 🤖 Advanced NLP Conversational AI Chatbot
-> `LangChain` `Llama 3.2` `FAISS` `FastAPI` `Docker` `WebSockets`
+> Update with your pinned project repositories.
 
-Production-ready RAG chatbot with real-time streaming, enterprise safety layers, and GDPR-compliant audit logging.
-
-- Sub-500ms response latency under load via FAISS vector search
-- PII redaction, content moderation, and jailbreak detection built in
-- Deployed with Docker + Kubernetes for horizontal scalability
-
-**[View Repository →](https://github.com/YOUR_USERNAME/chatbot-repo)**
+| Project | Description | Tech |
+|---|---|---|
+| [Fraud Analytics Dashboard](https://github.com/ashartaz001-boop/abhishek-portfolio) | Data-driven fraud monitoring and anomaly detection dashboard for risk triage and investigation | SQL, Python, Power BI |
+| [Risk Monitoring Insights](https://github.com/ashartaz001-boop/abhishek-portfolio) | Operational risk reporting and compliance insights using KPIs, root-cause analysis, and data storytelling | Power BI, Excel |
+| [GenAI for Risk Analytics](https://github.com/ashartaz001-boop/abhishek-portfolio) | RAG-based, LLM-enabled workflows for risk analysis, prompts, and analytics enablement | LangChain, ChromaDB, Gemini |
 
 ---
 
-### 🎭 Deepfake Detection System
-> `PyTorch` `EfficientNet-B0` `OpenCV` `MTCNN`
+## Certifications
 
-Deep learning model trained on 20,000+ video frames to detect AI-manipulated media.
+**Analytics & Programming:** Data Analytics (Teleperformance) · Advanced Analytics & Excel · Data Visualization in Power BI · SQL for Data Analysis · Programming in Python (Coding Ninjas)
 
-- **94.2% accuracy** · **97.1% ROC-AUC**
-- Automated pipeline: frame extraction → face detection → preprocessing → inference
-- Solved GPU memory overload via gradient accumulation; fallback detectors for edge angles
+**Generative AI:** Generative AI Foundations (upGrad) · Generative AI for Data Analytics · Prompt Engineering · Advanced AI: Agents, RAG & MCP (Coding Ninjas) · AI Principles · Intro to Large Language Models · Prompt Design in Vertex AI (Google)
 
-**[View Repository →](https://github.com/YOUR_USERNAME/deepfake-detector)**
+**Risk & Compliance:** Lean Six Sigma Yellow Belt · Security Risk Assessment · Global Anti-Corruption Training · Social Engineering: Phishing Awareness · Global Workplace Harassment Prevention (Teleperformance)
 
 ---
 
-### 📉 Customer Churn Prediction (Telecom)
-> `Scikit-Learn` `Random Forest` `GridSearchCV` `Pandas`
+## Let's Connect
 
-End-to-end ML pipeline predicting customer churn on 5,000+ records with zero data leakage.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekshartaz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekshartaz@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://github.com/ashartaz001-boop/abhishek-portfolio)
 
-- **86.4% accuracy** · **91.2% ROC-AUC** on held-out test set
-- Full Scikit-Learn pipeline: cleaning → encoding → scaling → training in one workflow
-- 5-fold cross-validation + GridSearch; F1 & ROC-AUC chosen to handle class imbalance
-
-**[View Repository →](https://github.com/YOUR_USERNAME/churn-prediction)**
-
----
-
-## Work Experience
-
-```
-Teleperformance India                            Jul 2017 – Nov 2025
-Assistant Manager — Risk Analytics & AI Engineer · Jaipur, Rajasthan
-────────────────────────────────────────────────────────────────────
-▸ Deployed RAG pipelines + RAGAS evaluation + PDF→JSON ingestion
-  using LangChain, Gemini 2.5, ChromaDB → 35% fewer hallucinations
-▸ Built GCP/Vertex AI infrastructure with semantic caching
-  → 40% reduction in API inference costs
-▸ Led fraud detection across large-scale transactional datasets
-  using SQL + Python anomaly detection
-▸ Built automated Power BI compliance dashboards & KPI systems
-▸ Conducted Security Risk Assessments & audit reviews
-```
-
----
-
-## Education & Certifications
-
-**🎓 IIT Guwahati** — Post Graduation in Data Analytics with GenAI *(Feb 2025 – Aug 2025)*
-
-**🎓 Jaipur National University** — Bachelor of Arts, 71% *(2019 – 2022)*
-
-<details>
-<summary><b>📜 View all certifications (10)</b></summary>
-
-| Certificate | Issuer |
-|---|---|
-| Intro to Large Language Models | Google |
-| Prompt Design in Vertex AI | Google |
-| Generative AI Foundations | upGrad |
-| Prompt Engineering | Coding Ninja |
-| Advanced AI (Agents, RAG, MCP) | Coding Ninja |
-| Programming in Python | IIT Guwahati |
-| Generative AI for Data Analytics | IIT Guwahati |
-| SQL for Data Analysis | IIT Guwahati |
-| Data Analytics | IIT Guwahati |
-| Data Visualization in Power BI | IIT Guwahati |
-
-</details>
-
----
-
-</div>
-
----
-
-<div align="center">
-
-**Open to AI Engineering & MLOps roles · Freelance consulting welcome**
-
-[![Email](https://img.shields.io/badge/Say_Hello-abhishekshartaz@gmail.com-00e5a0?style=for-the-badge)](mailto:abhishekshartaz@gmail.com)
-
-</div>
+⭐ If you find my work useful, feel free to star a repo or reach out.
