@@ -82,13 +82,11 @@ Fraud Prevention Analytics · Risk Analytics · Regulatory Compliance · Operati
 
 ## Featured Projects
 
-> Replace the entries below with links to your pinned repositories.
-
 | Project | Description | Tech |
 |---|---|---|
-| [Project name](https://github.com/YOUR-USERNAME/REPO) | One-line summary of the problem and the outcome | SQL, Python |
-| [Project name](https://github.com/YOUR-USERNAME/REPO) | One-line summary of the problem and the outcome | Power BI |
-| [Project name](https://github.com/YOUR-USERNAME/REPO) | One-line summary of the problem and the outcome | LangChain, ChromaDB, Gemini |
+| [LinkedIn Post Generator](https://github.com/ashartaz001-boop/LinkedIn-Post-Generator) | Built an AI-powered content engine that turns expertise into structured, high-impact LinkedIn posts, helping professionals strengthen personal branding and content consistency at scale. | Python, LLMs, Prompt Engineering |
+| [Me-Bot](https://github.com/ashartaz001-boop/Me-Bot) | Developed a conversational AI bot prototype focused on natural interactions, workflow support, and practical GenAI use cases for real-world business environments. | TypeScript, Voice AI, LLMs |
+| [MediTrack Enterprise](https://github.com/ashartaz001-boop/MediTrack-Enterprise) | Designed an enterprise healthcare workflow platform to simplify patient data access, improve service visibility, and streamline insurance claim tracking. | TypeScript, Full-Stack, Workflow Automation |
 
 ---
 
@@ -104,8 +102,8 @@ Fraud Prevention Analytics · Risk Analytics · Regulatory Compliance · Operati
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekshartaz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekshartaz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://abhishekdongrey-portfolio.netlify.app/)
 
 ⭐ If you find my work useful, feel free to star a repo or reach out.
