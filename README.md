@@ -82,13 +82,13 @@ Fraud Prevention Analytics · Risk Analytics · Regulatory Compliance · Operati
 
 ## Featured Projects
 
-> Update with your pinned project repositories.
+> Replace the entries below with links to your pinned repositories.
 
 | Project | Description | Tech |
 |---|---|---|
-| [Fraud Analytics Dashboard](https://github.com/ashartaz001-boop/abhishek-portfolio) | Data-driven fraud monitoring and anomaly detection dashboard for risk triage and investigation | SQL, Python, Power BI |
-| [Risk Monitoring Insights](https://github.com/ashartaz001-boop/abhishek-portfolio) | Operational risk reporting and compliance insights using KPIs, root-cause analysis, and data storytelling | Power BI, Excel |
-| [GenAI for Risk Analytics](https://github.com/ashartaz001-boop/abhishek-portfolio) | RAG-based, LLM-enabled workflows for risk analysis, prompts, and analytics enablement | LangChain, ChromaDB, Gemini |
+| [Project name](https://github.com/YOUR-USERNAME/REPO) | One-line summary of the problem and the outcome | SQL, Python |
+| [Project name](https://github.com/YOUR-USERNAME/REPO) | One-line summary of the problem and the outcome | Power BI |
+| [Project name](https://github.com/YOUR-USERNAME/REPO) | One-line summary of the problem and the outcome | LangChain, ChromaDB, Gemini |
 
 ---
 
@@ -104,8 +104,8 @@ Fraud Prevention Analytics · Risk Analytics · Regulatory Compliance · Operati
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekshartaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekshartaz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://abhishekdongrey-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 
 ⭐ If you find my work useful, feel free to star a repo or reach out.
